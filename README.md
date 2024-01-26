@@ -15,8 +15,5 @@ This course provides a broad introduction to machine learning with theoretical a
 * Linear Discriminant Analysis/Metric Learning
 * Logistic Regression
 * Perceptron and Multilayer Perceptron (MLP)
-* AutoEncoder
 * Convolutional Neural Network (CNN)
 * Recurrent Neural Network (RNN)
-* Generative Adversarial Network (GAN)
-* Graph Neural Network (GNN) 
