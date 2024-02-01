@@ -1,0 +1,3 @@
+# Image Segmentation Using Spectral Clustering
+
+In this project, I successfully applied spectral clustering for image segmentation on various datasets, including 'clemson.jpeg'. The process involved constructing affinity matrices, normalizing them, and implementing eigenvalue decomposition to identify clusters. The approach was tested across multiple datasets with varying values of epsilon (ε), and I compared spectral clustering results with k-means, showcasing its efficacy in grouping data points based on similarity. This project demonstrates my proficiency in advanced image processing techniques and mathematical concepts in machine learning, enhancing my portfolio in data science and computational algorithms.
